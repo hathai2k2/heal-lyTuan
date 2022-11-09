@@ -234,7 +234,7 @@ var ParticlePool = (function() {
     requestAnimationFrame(render);
 
     // update time
-    var newTime = new Date().getTime() / 1000,
+    var newTime = new Date().getTime() / 3000,
         deltaTime = newTime - (time || newTime);
     time = newTime;
 

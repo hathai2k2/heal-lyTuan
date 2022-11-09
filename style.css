@@ -30,7 +30,7 @@ canvas {
   margin: auto;
   height: 500px;
   width: 500px;
-  animation: animate 1.3s infinite;
+  animation: animate 3s infinite;
 }
 
 #pinkboard:before,
