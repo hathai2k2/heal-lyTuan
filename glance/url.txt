@@ -1,1 +1,1 @@
-https://operating-releases-accepts-gave.trycloudflare.com
+https://api.trycloudflare.com
